@@ -4,8 +4,6 @@
 
 *Optimization methods and algorithms class - PoliTO*
 
-*See the [Report](https://github.com/NicolaSabino/ETPSolver/blob/master/Report.pdf) file for more details about the implementation.*
-
 A simple java CLI application that solve some given instances structured in such a way
 
 Each instance instanceXX is defined by 3 plain text files, with the same name:
@@ -54,6 +52,8 @@ java -jar ETPsolver_OMAAL_group24.jar [PATH FILE WITHOUT EXTENSION] -t [SECONDS]
 | Best:  |  0,18 |
 | Avg:   |  8,04 |
 | Worst: | 23,07 |
+
+*See the [Report](https://github.com/NicolaSabino/ETPSolver/blob/master/Report.pdf) file for more details about the implementation.*
 
 
 
