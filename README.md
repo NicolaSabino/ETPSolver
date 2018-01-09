@@ -4,7 +4,7 @@
 
 *Optimization methods and algorithms class - PoliTO*
 
-see the [Report](https://github.com/NicolaSabino/ETPSolver/blob/master/Report.pdf) file for more details about the implementation.
+*See the [Report](https://github.com/NicolaSabino/ETPSolver/blob/master/Report.pdf) file for more details about the implementation.*
 
 A simple java CLI application that solve some given instances structured in such a way
 
