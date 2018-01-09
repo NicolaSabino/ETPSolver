@@ -1,7 +1,7 @@
 # ETPSolver
 ## Optimization methods and algorithms class - PoliTO
 
-A simple java CLI application that solve some given instances structured in such a way:
+A simple java CLI application that solve some given instances structured in such a way
 
 Each instance instanceXX is defined by 3 plain text files, with the same name:
 * **InstanceXX.exm**: defines the total number of students enrolled per exam.
