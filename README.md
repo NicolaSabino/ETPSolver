@@ -31,11 +31,11 @@ each exam, the assigned time-slot
 
 The correct syntax for using the program is
 ```
-java jar ETPsolver_OMAAL_group24.jar [PATH FILE WITHOUT EXTENSION] -t [SECONDS] 
+java -jar ETPsolver_OMAAL_group24.jar [PATH FILE WITHOUT EXTENSION] -t [SECONDS] 
 ```
 ## Benchmarks
 
-|            | Exams | Students | Enrolments | Timeslots | Density | Referenc | BenchMark | Gap % |
+|            | Exams | Students | Enrolments | Timeslots | Density | Referenc | Benchmark | Gap % |
 |------------|-------|----------|------------|-----------|---------|----------|-----------|-------|
 | instance01 |   139 |      611 |       5751 |        13 |    0,14 |  157,033 |   158,430 |  0,89 |
 | instance02 |   181 |      941 |       6034 |        21 |    0,29 |   34,709 |    40,808 | 17,57 |
