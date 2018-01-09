@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ETPSolver-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ETPSolver_master_jar/ETPSolver-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
