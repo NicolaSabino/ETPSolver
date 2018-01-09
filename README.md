@@ -1,5 +1,7 @@
 # ETPSolver
-**Antonella Cardillo, Maria Castaldo, Marian Alexandru Ilies, Fabio Gavinelli, Nicola Sabino**
+**Antonella Cardillo, Maria Castaldo, Marian Alexandru Ilies, Fabio Gavinelli, Nicola Sabino**  
+
+
 *Optimization methods and algorithms class - PoliTO*
 
 A simple java CLI application that solve some given instances structured in such a way
