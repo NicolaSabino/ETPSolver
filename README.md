@@ -4,6 +4,8 @@
 
 *Optimization methods and algorithms class - PoliTO*
 
+see the [Report](https://github.com/NicolaSabino/ETPSolver/blob/master/Report.pdf) file for more details about the implementation.
+
 A simple java CLI application that solve some given instances structured in such a way
 
 Each instance instanceXX is defined by 3 plain text files, with the same name:
