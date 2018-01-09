@@ -45,6 +45,8 @@ java -jar ETPsolver_OMAAL_group24.jar [PATH FILE WITHOUT EXTENSION] -t [SECONDS]
 | instance06 |   622 |    21266 |      58979 |        35 |    0,13 |    3,045 |     3,790 | 24,48 |
 | instance07 |    81 |     2823 |      10632 |        18 |    0,42 |   10,050 |    11,150 | 10,94 |
 
+|        |   %   |
+|--------|-------|
 | Best:  |  0,89 |
 | Avg:   | 15,38 |
 | Worst: | 24,48 |
